@@ -1,0 +1,21 @@
+
+/* This is an external CSS created for Project 1 on 2/26/21 by: 
+Author: Mayky Santos
+E-mail: mayky.santos@lc.cuny.edu
+Last updated: 3/01/21 by M. Santos */
+
+    h1 {background-color: yellowgreen;border-style: ridge;border-width: thick;border-color: black; text-align: center;}
+ .about {background-color: rgb(135, 167, 167);}
+    
+    p4 {background-color: chartreuse;}
+    p5 {background-color:rgb(238, 168, 145);font: bold; }
+    ol {background-color: rgb(243, 182, 161);}
+    p6 {background-color: chartreuse;font:bold;}
+    ul {background-color: chartreuse;}
+
+
+    p3 {font: bold; color: black;}
+   #departed {font-style: italic; font:bold; font-size: larger ; background-color: darkgray;}
+
+/* CSS background colors were updated on 2/28/21 by M.Santos */
+
